@@ -2,7 +2,7 @@
 
 ## Description/Motivation
 
-Submission for MIT xPro Course - Professional Certificate in Coding: Full Stack Development with MERN April 2022
+Submission for MIT xPro Course - Professional Certificate in Coding: Full Stack Development with MERN January 2023
 
 ## Installation Guidelines
 
