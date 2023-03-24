@@ -2,6 +2,7 @@
 
 ## Description/Motivation
 Project Name: Bhanu-SehgalFullStackBankingApplication
+
 Author: Bhanu Sehgal
 
 Submission for MIT xPro Course - Professional Certificate in Coding: Full Stack Development with MERN April 2023
